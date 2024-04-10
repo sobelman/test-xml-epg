@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="manuall">
+  <channel id="5000">
+    <display-name lang="he">ערוץ כאן 11</display-name>
+    <icon src="http://isc.wcdn.co.il/w6/v/tv/ch_icons/Untitled-22.jpg" />
+    <url>http://kan.co.il</url>
+  </channel>
+  </tv>
+  
